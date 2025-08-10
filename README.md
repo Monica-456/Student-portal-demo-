@@ -5,3 +5,4 @@ A demo application for managing student information and activities.
 - group discussions.
 - JAM.
 - feedback.
+
